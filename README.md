@@ -1,6 +1,6 @@
 ## 欢迎你来到这儿。
 
-你可以在[这里](https://github.com/Yeyuehuke/Yeyuehuke.github.io/edit/master/README.md) 看到这个网页的源代码。
+你可以在[这里](https://github.com/Yeyuehuke/Yeyuehuke.github.io/edit/master/README.md)看到这个网页的源代码。
 
 ### 我们是谁？
 
