@@ -1,0 +1,4 @@
+baseURL = "https://yeyuehuke.github.io/qianshaozhan/public/"
+languageCode = "zh-Hans"
+title = "前哨站"
+theme = "Hugo.386" 
