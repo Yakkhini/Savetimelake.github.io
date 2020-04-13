@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yeyuehuke.github.io</id>
+    <title>前哨站</title>
+    <updated>2020-04-13T06:47:19.324Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yeyuehuke.github.io"/>
+    <link rel="self" href="https://yeyuehuke.github.io/atom.xml"/>
+    <subtitle>你发现了这里。这是我们的前哨站，由我的热水浴室改装而成。</subtitle>
+    <logo>https://yeyuehuke.github.io/images/avatar.png</logo>
+    <icon>https://yeyuehuke.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 前哨站</rights>
+</feed>
