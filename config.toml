@@ -3,6 +3,7 @@ title = "My leading planet"
 languageCode = "zh-Hans"
 DefaultContentLanguage = "zh-Hans" # Change this to change the site's language
 theme = "hugo.386"
+publishDir = "docs"
 preserveTaxonomyNames = true
 
 [params]
