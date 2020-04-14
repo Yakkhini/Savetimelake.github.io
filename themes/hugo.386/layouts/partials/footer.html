@@ -5,17 +5,17 @@
         {{ with .Site.Params.copyrighturl }}<a href="{{ . }}" target="_blank">{{ end }}
             {{ .Site.Params.copyrightname }}
         {{ with .Site.Params.copyrighturl }}</a>{{ end }}
-        <span id="thisyear">2020</span>
+        <span id="thisyear">2049 & 2077</span>
         {{ if isset .Site.Params "showhugo" }}
-             | {{ i18n "builton" }} <a href="//gohugo.io" target="_blank">Hugo</a>
+             | {{ i18n "builton" }} <a href="https://yeyuehuke.github.io/" target="_blank">Reload</a>
         {{ end }}
     </p>
     <p class="text-center">
-        {{ with .Site.Params.facebook }}<a href="{{ . }}">Facebook</a> {{ end }}
-        {{ with .Site.Params.twitter }}<a href="{{ . }}">Twitter</a> {{ end }}
-        {{ with .Site.Params.linkedin }}<a href="{{ . }}">Linkedin</a> {{ end }}
-        {{ with .Site.Params.github }}<a href="{{ . }}">GitHub</a> {{ end }}
-        {{ with .Site.Params.gitlab }}<a href="{{ . }}">GitLab</a>{{ end }}
+        {{ with .Site.Params.Bilibili }}<a href="{{ . }}">Bilibili</a> {{ end }}
+        {{ with .Site.Params.CloudMusic }}<a href="{{ . }}">CloudMusic</a> {{ end }}
+        {{ with .Site.Params.Tumblr }}<a href="{{ . }}">Tumblr</a> {{ end }}
+        {{ with .Site.Params.Github }}<a href="{{ . }}">GitHub</a> {{ end }}
+        {{ with .Site.Params.Steam }}<a href="{{ . }}">Steam</a>{{ end }}
     </p>
 </footer>
 

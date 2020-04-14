@@ -222,16 +222,19 @@ textarea {
 }
 
 @font-face {
-  font-family: 'DOS';
+  font-family: 'Dos';
   font-style: normal;
   font-weight: normal;
   src: url('fonts/Fixedsys500c.eot');
   src: local('☺'), url('fonts/Fixedsys500c.woff') format('woff'), url('fonts/Fixedsys500c.ttf') format('truetype'), url('fonts/Fixedsys500c.svg') format('svg');
 }
 
+
+
 body {
   margin: 0;
-  font-family: Dos, "Microsoft Yahei", monospace;
+  font-family: DOS, KaiTi, monospace;
+  font-weight: bold;
   font-size: 18px;
   line-height: 20px;
   color: #bbbbbb;
@@ -1018,7 +1021,8 @@ address {
 code,
 pre {
   padding: 0;
-  font-family: DOS, "Microsoft Yahei", sans-serif;
+  font-family: Dos, KaiTi, monospace;
+  font-weight: bold;
   font-size: 18px;
   color: #555555;
   -webkit-border-radius: 0;
@@ -1118,7 +1122,8 @@ input,
 button,
 select,
 textarea {
-  font-family: DOS, "Microsoft Yahei", monospace;
+  font-family: Dos, KaiTi, monospace;
+  font-weight: bold;
 }
 
 label {
@@ -4332,7 +4337,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-search .search-query {
   padding: 4px 12.4px;
   margin-bottom: 0;
-  font-family: DOS, "Microsoft Yahei", monospace;
+  : Dos, monospace;
   font-size: 18px;
   font-weight: normal;
   line-height: 1;
