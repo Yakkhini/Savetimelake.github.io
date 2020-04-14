@@ -4,6 +4,7 @@ languageCode = "zh-Hans"
 DefaultContentLanguage = "zh-Hans" # Change this to change the site's language
 theme = "hugo.386"
 publishDir = "docs"
+enableEmoji = true
 preserveTaxonomyNames = true
 
 [params]
