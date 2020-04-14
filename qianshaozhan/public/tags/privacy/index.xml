@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on My leading planet</title>
+    <link>https://example.com/tags/privacy/</link>
+    <description>Recent content in privacy on My leading planet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Mon, 13 Apr 2020 20:51:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start From 虎</title>
+      <link>https://example.com/post/start-from-tiger/</link>
+      <pubDate>Mon, 13 Apr 2020 20:51:33 +0800</pubDate>
+      
+      <guid>https://example.com/post/start-from-tiger/</guid>
+      <description>我一直在考虑是否要开辟这里 但是一直也没有回应。</description>
+    </item>
+    
+  </channel>
+</rss>
