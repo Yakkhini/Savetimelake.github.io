@@ -1,8 +1,13 @@
 +++
 title="Start From 虎"
-date=2020-04-13T20:51:33+08:00
+date=2001-07-19
 draft=false
-tags=["privacy"]
+tags=[
+    
+]
+categories = [
+    "Others",
+]
 +++
 
 ## 我一直在考虑是否要开辟这里

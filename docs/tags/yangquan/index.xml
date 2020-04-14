@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My leading planet</title>
-    <link>https://yeyuehuke.github.io/Savetimelake.github.io/post/</link>
-    <description>Recent content in Posts on My leading planet</description>
+    <title>Yangquan on My leading planet</title>
+    <link>https://yeyuehuke.github.io/Savetimelake.github.io/tags/yangquan/</link>
+    <description>Recent content in Yangquan on My leading planet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Tue, 14 Apr 2020 22:00:24 +0800</lastBuildDate>
     
-	<atom:link href="https://yeyuehuke.github.io/Savetimelake.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yeyuehuke.github.io/Savetimelake.github.io/tags/yangquan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -69,43 +69,6 @@
 “你从煤专毕业到现在，做过一份正经工作吗？”他这样问我，“来我这里干吧。挣个饭钱，还有五险一金。”
 我知道他说的“干”是什么意思。李靖高中毕业后就把青年路的所有发廊都吞并，开了一家本市最大的洗浴中心，生意红火。他的“干”，无非就是为我设立一份诸如“公共关系主任助理”之类狗屁不通的差事，然后痛痛快快地一起吸资本的血。
 这无非是一件好事。我们一起在奔三的路上越行越远，然后再一起跳进中年的围城中去，追寻死亡。</description>
-    </item>
-    
-    <item>
-      <title>Start From 虎</title>
-      <link>https://yeyuehuke.github.io/Savetimelake.github.io/post/start-from-tiger/</link>
-      <pubDate>Thu, 19 Jul 2001 00:00:00 +0800</pubDate>
-      
-      <guid>https://yeyuehuke.github.io/Savetimelake.github.io/post/start-from-tiger/</guid>
-      <description>我一直在考虑是否要开辟这里 但是一直也没有回应。</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://yeyuehuke.github.io/Savetimelake.github.io/post/markdown-syntax/</link>
-      <pubDate>Wed, 11 Mar 1970 00:00:00 +0000</pubDate>
-      
-      <guid>https://yeyuehuke.github.io/Savetimelake.github.io/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://yeyuehuke.github.io/Savetimelake.github.io/post/placeholder-text/</link>
-      <pubDate>Mon, 09 Mar 1970 00:00:00 +0000</pubDate>
-      
-      <guid>https://yeyuehuke.github.io/Savetimelake.github.io/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://yeyuehuke.github.io/Savetimelake.github.io/post/emoji-support/</link>
-      <pubDate>Thu, 05 Mar 1970 00:00:00 +0000</pubDate>
-      
-      <guid>https://yeyuehuke.github.io/Savetimelake.github.io/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
   </channel>

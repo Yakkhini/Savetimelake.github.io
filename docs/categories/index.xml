@@ -6,26 +6,35 @@
     <description>Recent content in Categories on My leading planet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 22:00:24 +0800</lastBuildDate>
     
 	<atom:link href="https://yeyuehuke.github.io/Savetimelake.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>syntax</title>
-      <link>https://yeyuehuke.github.io/Savetimelake.github.io/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Grenade</title>
+      <link>https://yeyuehuke.github.io/Savetimelake.github.io/categories/grenade/</link>
+      <pubDate>Tue, 14 Apr 2020 22:00:24 +0800</pubDate>
       
-      <guid>https://yeyuehuke.github.io/Savetimelake.github.io/categories/syntax/</guid>
+      <guid>https://yeyuehuke.github.io/Savetimelake.github.io/categories/grenade/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>https://yeyuehuke.github.io/Savetimelake.github.io/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Short Weapon</title>
+      <link>https://yeyuehuke.github.io/Savetimelake.github.io/categories/short-weapon/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://yeyuehuke.github.io/Savetimelake.github.io/categories/themes/</guid>
+      <guid>https://yeyuehuke.github.io/Savetimelake.github.io/categories/short-weapon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>https://yeyuehuke.github.io/Savetimelake.github.io/categories/others/</link>
+      <pubDate>Thu, 19 Jul 2001 00:00:00 +0800</pubDate>
+      
+      <guid>https://yeyuehuke.github.io/Savetimelake.github.io/categories/others/</guid>
       <description></description>
     </item>
     
